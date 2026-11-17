@@ -1,6 +1,6 @@
-# Kal.Cy
+## <h1 align="left"> Kal.Cy </h1>
 
-<p align="center">
+<p align="left">
   <img src="logo.png" alt="Cal.Cy" width="200">
 </p>
 
